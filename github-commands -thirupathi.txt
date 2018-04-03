@@ -1,6 +1,7 @@
 
 Online github username:thirupathirao015 password:thirupathirao15  mail:ramisetti015@gmail.com
 
+
 //create the repository and add the project
 ..........................................................................................
 git config --global user.name "thirupathirao015" 
@@ -22,7 +23,7 @@ git clone https://github.com/thirupathirao015/Hibernatemapping.git
 
 .....................................................................................................................
 
-…or create a new repository on the command line................
+â€¦or create a new repository on the command line................
 echo "# gitcommands" >> README.md
 git init
 git add README.md
@@ -30,6 +31,6 @@ git commit -m "first commit"
 git remote add origin https://github.com/thirupathirao015/gitcommands.git
 git push -u origin master
 
-…or push an existing repository from the command line.......
+â€¦or push an existing repository from the command line.......
 git remote add origin https://github.com/thirupathirao015/gitcommands.git
 git push -u origin master
