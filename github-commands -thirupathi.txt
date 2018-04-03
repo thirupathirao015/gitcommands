@@ -1,0 +1,21 @@
+
+Online github username:thirupathirao015 password:thirupathirao15  mail:ramisetti015@gmail.com
+
+//create the repository and add the project
+..........................................................................................
+git config --global user.name "thirupathirao015" 
+
+git config --global user.email ramisetti015@gmail.com
+..........................................................................................
+git clone https://github.com/thirupathirao015/Employee.git
+
+git add .
+
+git commit -m "comments"
+
+git remote add origin https://github.com/rambabuchamakuri/ScalaAkka.git
+
+git push -u origin master
+
+
+git clone https://github.com/thirupathirao015/Hibernatemapping.git
